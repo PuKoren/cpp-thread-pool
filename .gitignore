@@ -19,3 +19,8 @@
 *.exe
 *.out
 *.app
+
+#VisualStudio temp files
+Debug/*
+*.opensdf
+*.sdf
